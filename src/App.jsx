@@ -1,7 +1,7 @@
 import React from 'react'
 import Navbar from './components/Navbar/Navbar.jsx'
 import Hero from './components/Hero/Hero.jsx'
-import Programs from './components/Programs/programs.jsx'
+import Programs from './components/Programs/Programs.jsx'
 import Footer from './components/Footer/Footer.jsx'
 
 
