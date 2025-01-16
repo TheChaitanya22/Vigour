@@ -1,3 +1,3 @@
 Vigour 
 
-DE PROj
+DE Proj
